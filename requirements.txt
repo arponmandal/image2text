@@ -3,4 +3,5 @@ numpy
 pytesseract
 opencv_python_headless
 Pillow
+requests
 gunicorn
