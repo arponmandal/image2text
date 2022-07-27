@@ -1,7 +1,7 @@
 Flask
 numpy
+tesseract
 pytesseract
-tesseract-ocr
 opencv_python_headless
 Pillow
 requests
