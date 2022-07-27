@@ -13,7 +13,7 @@ import pytesseract
 # Adding path to config
 app.config['INITIAL_FILE_UPLOADS'] = 'app/static/uploads'
 
-pytesseract.pytesseract.tesseract_cmd = "/app/.apt/usr/bin/tesseract"
+#pytesseract.pytesseract.tesseract_cmd = "/app/.apt/usr/bin/tesseract"
 
 # Route to home page
 @app.route("/", methods=["GET", "POST"])
